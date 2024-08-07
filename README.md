@@ -1,4 +1,4 @@
-### Redis Overview
+# Redis Overview
 
 Redis (Remote Dictionary Server) is an in-memory data structure store used as a database, cache, and message broker. It supports various data structures like strings, lists, sets, sorted sets, hashes, streams, and more. Redis provides high performance, reliability, and a rich set of features for managing data.
 
